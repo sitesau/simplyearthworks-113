@@ -1,0 +1,22 @@
+{
+  "wheel_id": 870,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-113",
+  "project": "earthmoving-adelaide-before-you-start-e1b97d66b6d122273ff46e68b",
+  "parent_t1_ref": "simplyearthworks-156",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide before you start",
+  "intended_url": "https://aumedia.neocities.org/earthmoving-adelaide-before-you-start-e1b97d66b6d122273ff46e68b/",
+  "tier": "T2",
+  "writeback_nonce": "ad8eb6f48f342b5c",
+  "links": [
+    {
+      "target_url": "http://earthmoving-adelaide-myths-ab03a61b987f6ed801c26b265dce783e13a0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://earthmoving-adelaide-myths-ab03a61b987f6ed801c26b265dce783e13a0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
